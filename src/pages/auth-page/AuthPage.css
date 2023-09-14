@@ -1,0 +1,5 @@
+.auth-page {
+    height: 100vh;
+    background: url(../../../public/lake.jpg) no-repeat;
+    background-size: cover;
+}
